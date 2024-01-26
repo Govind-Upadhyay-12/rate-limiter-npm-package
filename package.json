@@ -1,0 +1,18 @@
+{
+  "name": "rate-guardian",
+  "version": "1.0.0",
+  "description": "A simple npm package for rate limiting.",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "expree": "^2.1.0",
+    "rate-guardian": "^1.0.0"
+  }
+}
